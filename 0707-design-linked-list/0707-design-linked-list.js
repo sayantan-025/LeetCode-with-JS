@@ -85,7 +85,7 @@ MyLinkedList.prototype.addAtIndex = function(index, val) {
  * @return {void}
  */
 MyLinkedList.prototype.deleteAtIndex = function(index) {
-    if(index < 0 || index > this.size) return;
+    if(index < 0 || index >= this.size) return;
 
     if(index === 0){
         this.head = this.head.next;
