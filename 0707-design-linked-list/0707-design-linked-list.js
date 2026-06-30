@@ -9,6 +9,8 @@ var MyLinkedList = function() {
 };
 
 /** 
+
+
  * @param {number} index
  * @return {number}
  */
