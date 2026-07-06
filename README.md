@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0205-isomorphic-strings) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
