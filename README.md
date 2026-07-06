@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
