@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
