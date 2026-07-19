@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
