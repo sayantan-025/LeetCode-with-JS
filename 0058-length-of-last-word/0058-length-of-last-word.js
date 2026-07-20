@@ -3,10 +3,10 @@
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    let pointer = s.length - 1;
     let count = 0;
+    let x = s.length - 1;
 
-    for(let i = pointer; i >= 0; i--){
+    for(let i = x; i >= 0; i--){
         if(s[i] !== " "){
             count++;
         }else if(count > 0){
