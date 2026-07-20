@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0485-max-consecutive-ones) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
