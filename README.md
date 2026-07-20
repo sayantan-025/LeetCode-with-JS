@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0485-max-consecutive-ones) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
@@ -85,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
