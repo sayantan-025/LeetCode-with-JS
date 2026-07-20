@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
