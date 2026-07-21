@@ -8,24 +8,22 @@ var isPalindrome = function(s) {
     let j = s.length - 1;
 
     while(i < j){
-        if(!check(s[i])){
-            i++;
-        }else if(!check(s[j])){
-            j--;
+        if(!check(s[j])){
+           j--;
+        }else if(!check(s[i])){
+           i++;
         }else if(s[i] === s[j]){
-            i++;
-            j--;
-        }
-        else{
+            i++;j--;
+        }else{
             return false;
         }
     }
     return true;
 };
 
-function check(ch){
+function check(val){
     return(
-       ( ch >= "0" && ch <= "9" ) ||
-       ( ch >= "a" && ch <= "z")
+        (val >= "a" && val <= "z") ||
+        (val >= "0" && val <= "9")
     )
 }
