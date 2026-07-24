@@ -12,21 +12,22 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function(headA, headB) {
-    // add to set
+    // add 
+
     let set = new Set();
 
-    while(headB){
-        set.add(headB);
-        headB = headB.next;
+    while(headA){
+        set.add(headA);
+        headA = headA.next;
     }
 
     // check
 
-    while(headA){
-        if(set.has(headA)){
-            return headA;
+    while(headB){
+        if(set.has(headB)){
+            return headB;
         }else{
-            headA = headA.next;
+            headB = headB.next;
         }
     }
     return null;
