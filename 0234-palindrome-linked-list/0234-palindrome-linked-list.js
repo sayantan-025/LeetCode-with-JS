@@ -10,15 +10,16 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-    // middle
+    // middle 
     let slow = fast = head;
 
     while(fast && fast.next){
         slow = slow.next;
         fast = fast.next.next;
     }
+    console.log(slow);
 
-    // reverse 2nd half
+    // reverse 2nd part 
     let prev = null;
     let curr = slow;
 
@@ -35,9 +36,7 @@ var isPalindrome = function(head) {
     let lastNode = prev;
 
     while(lastNode){
-        if(firstNode.val !== lastNode.val){
-            return false;
-        }
+        if(firstNode.val !== lastNode.val) return false;
         firstNode = firstNode.next;
         lastNode = lastNode.next;
     }
