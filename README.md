@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
