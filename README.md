@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
