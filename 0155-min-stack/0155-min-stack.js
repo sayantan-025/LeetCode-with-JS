@@ -11,8 +11,8 @@ MinStack.prototype.push = function(value) {
     if(this.s.length === 0){
         this.s.push([value,value]);
     }else{
-        let minValue = Math.min(value, this.s[this.s.length - 1][1]);
-        this.s.push([value,minValue]);
+        let minVal = Math.min(value, this.s[this.s.length - 1][1]);
+        this.s.push([value,minVal]);
     }
 };
 
@@ -34,7 +34,7 @@ MinStack.prototype.top = function() {
  * @return {number}
  */
 MinStack.prototype.getMin = function() {
-    return this.s[this.s.length -  1][1];
+    return this.s[this.s.length - 1][1];
 };
 
 /** 
