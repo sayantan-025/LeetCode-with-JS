@@ -28,7 +28,7 @@ MyStack.prototype.top = function() {
     for(let i = 0; i < this.q.length - 1; i++){
         this.q.push(this.q.shift());
     }
-    let ans = this.q.shift();
+    let ans =  this.q.shift();
     this.q.push(ans);
     return ans;
 };
