@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
