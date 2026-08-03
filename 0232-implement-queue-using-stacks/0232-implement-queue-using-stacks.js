@@ -33,7 +33,9 @@ MyQueue.prototype.peek = function() {
             this.s2.push(this.s1.pop());
         }
     }
-    return this.s2[this.s2.length - 1];
+    let ans =  this.s2.pop();
+    this.s2.push(ans);
+    return ans;
 };
 
 /**
