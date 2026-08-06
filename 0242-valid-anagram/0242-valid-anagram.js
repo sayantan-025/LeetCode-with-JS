@@ -6,13 +6,11 @@
 var isAnagram = function(s, t) {
     let map = {};
 
-    if(s.length !== t.length) return false;
-
     for(let i = 0; i < s.length; i++){
-        if(map[s[i]]){
-            map[s[i]]++;
-        }else{
+        if(!map[s[i]]){
             map[s[i]] = 1;
+        }else{
+            map[s[i]]++;
         }
     }
 
@@ -23,6 +21,5 @@ var isAnagram = function(s, t) {
             return false;
         }
     }
-
     return true;
 };
