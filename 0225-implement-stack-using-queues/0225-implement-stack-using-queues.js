@@ -15,22 +15,22 @@ MyStack.prototype.push = function(x) {
  * @return {number}
  */
 MyStack.prototype.pop = function() {
-    for(let i = 0; i < this.q.length - 1; i++){
-        this.q.push(this.q.shift());
-    }
-    return this.q.shift();
+   for(let i = 0; i < this.q.length - 1; i++){
+    this.q.push(this.q.shift());
+   }
+   return this.q.shift();
 };
 
 /**
  * @return {number}
  */
 MyStack.prototype.top = function() {
-    for(let i = 0; i < this.q.length - 1; i++){
+   for(let i = 0; i < this.q.length - 1; i++){
         this.q.push(this.q.shift());
-    }
-    let ans =  this.q.shift();
-    this.q.push(ans);
-    return ans;
+   }
+   let ans = this.q.shift();
+   this.q.push(ans);
+   return ans;
 };
 
 /**
