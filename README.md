@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
