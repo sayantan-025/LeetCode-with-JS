@@ -13,5 +13,4 @@ var reverseString = function(s) {
         i++;
         j--;
     }
-    return s;
 };
