@@ -8,6 +8,5 @@ var singleNumber = function(nums) {
     for(let i = 0; i < nums.length; i++){
         xor = nums[i] ^ xor;
     }
-
     return xor;
 };
