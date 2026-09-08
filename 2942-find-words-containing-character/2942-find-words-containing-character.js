@@ -4,15 +4,15 @@
  * @return {number[]}
  */
 var findWordsContaining = function(words, x) {
-    let ans = [];
+  let arr = [];
 
-    for(let i = 0; i < words.length; i++){
-        for(let j = 0; j < words[i].length; j++){
-            if(words[i][j] === x){
-                ans.push(i);
-                break;
-            }
+  for(let i = 0; i < words.length; i++){
+    for(let j = 0; j < words[i].length; j++){
+        if(words[i][j] === x){
+            arr.push(i);
+            break;
         }
     }
-    return ans;
+  }  
+  return arr;
 };
