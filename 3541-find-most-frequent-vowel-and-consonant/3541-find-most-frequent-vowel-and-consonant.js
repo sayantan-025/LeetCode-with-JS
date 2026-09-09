@@ -7,13 +7,13 @@ var maxFreqSum = function(s) {
 
     for(let i = 0; i < s.length; i++){
         if(!map[s[i]]){
-           map[s[i]] = 1;
+            map[s[i]] = 1;
         }else{
             map[s[i]]++;
         }
     }
-
-    let vowel = ["a" , "e" , "i" , "o" , "u"];
+    
+    let vowel = ["a", "e", "i", "o", "u"];
     let max_vowel = 0;
     let max_cons = 0;
 
@@ -21,8 +21,9 @@ var maxFreqSum = function(s) {
         if(vowel.includes(s[i])){
             max_vowel = Math.max(max_vowel,map[s[i]]);
         }else{
-            max_cons = Math.max(max_cons,map[s[i]]);
+            max_cons = Math.max(max_cons, map[s[i]]);
         }
     }
     return max_vowel + max_cons;
+
 };
