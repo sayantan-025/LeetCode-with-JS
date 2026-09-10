@@ -3,17 +3,17 @@
  * @return {number}
  */
 var balancedStringSplit = function(s) {
-    let track = 0; 
     let count = 0;
+    let max_count = 0;
 
     for(let i = 0; i < s.length; i++){
         if(s[i] === "R"){
-            track++;
+           max_count++;
         }else{
-            track--;
+            max_count--;
         }
 
-        if(track === 0){
+        if(max_count === 0){
             count++;
         }
     }
