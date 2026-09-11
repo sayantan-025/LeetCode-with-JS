@@ -23,8 +23,8 @@ var isPalindrome = function(s) {
 };
 
 function check(ch){
-    return (
-        (ch >= "0" && ch <= "9") ||
-        (ch >= "a" && ch <= "z")
+    return(
+       (ch >= "0" && ch <= "9") ||
+       (ch >= "a" && ch >= "z")
     )
 }
