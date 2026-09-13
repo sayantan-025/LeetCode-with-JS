@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1768-merge-strings-alternately](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1903-largest-odd-number-in-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
