@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
