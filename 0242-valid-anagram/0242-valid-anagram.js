@@ -4,9 +4,9 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    let map = {};
-
     if(s.length !== t.length) return false;
+
+    let map = {};
 
     for(let i = 0; i < s.length; i++){
         if(!map[s[i]]){
@@ -17,11 +17,12 @@ var isAnagram = function(s, t) {
     }
 
     for(let i = 0; i < t.length; i++){
-        if(map[t[i]]){
-            map[t[i]]--;
-        }else{
+        if(!map[t[i]]){
             return false;
+        }else{
+            map[t[i]]--;
         }
     }
+
     return true;
 };
