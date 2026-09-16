@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1796-second-largest-digit-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
@@ -184,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -196,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -205,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
