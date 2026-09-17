@@ -20,11 +20,12 @@ var isPalindrome = function(s) {
         }
     }
     return true;
+    
 };
 
 function check(ch){
     return(
-       (ch >= "0" && ch <= "9") ||
-       (ch >= "a" && ch <= "z")
+        (ch >= "0" && ch <= "9") ||
+        (ch >= "a" && ch <= "z")
     )
-}
+};
