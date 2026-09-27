@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0088-merge-sorted-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0232-implement-queue-using-stacks) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
