@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
