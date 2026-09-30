@@ -3,18 +3,18 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    let stack = [];
+    let ans  = [];
 
     for(let i = 0; i < s.length; i++){
         if(s[i] === "("){
-            stack.push(")");
+            ans.push(")");
         }else if(s[i] === "{"){
-            stack.push("}");
+            ans.push("}");
         }else if(s[i] === "["){
-            stack.push("]");
-        }else if(stack.length === 0 || stack.pop() !== s[i]){
+            ans.push("]");
+        }else if(ans.length === 0 || ans.pop() !== s[i]){
             return false;
         }
     }
-    return stack.length === 0;
+    return ans.length === 0;
 };
