@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1768-merge-strings-alternately) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
