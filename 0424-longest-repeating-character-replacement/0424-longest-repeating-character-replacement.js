@@ -1,0 +1,27 @@
+/**
+ * @param {string} s
+ * @param {number} k
+ * @return {number}
+ */
+var characterReplacement = function(s, k) {
+    let map = new Map();
+    let left = 0;
+    let maxFreq = 0;
+    let maxWindow = 0;
+
+    for(let right = 0; right < s.length; right++){
+        map.set(s[right], (map.get(s[right]) || 0) + 1);
+
+        maxFreq = Math.max(maxFreq, map.get(s[right]));
+
+        let currWindow = right - left + 1;
+
+        if(currWindow - maxFreq > k){
+            map.set(s[left] , map.get(s[left]) - 1);
+            left++;
+        }
+        currWindow = right - left + 1;
+        maxWindow = Math.max(currWindow,maxWindow);
+    }
+    return maxWindow;
+}; 
