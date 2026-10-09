@@ -7,17 +7,16 @@ var search = function(nums, target) {
     let i = 0;
     let j = nums.length - 1;
 
-    while(j >= i){   
-   let mid = Math.floor((i + j) / 2);
+    while(i <= j){
+        let mid = Math.floor((i + j) / 2);
 
-    if(nums[mid] === target){
-        return mid;
-    }else if(target > nums[mid]){
-        i = mid + 1;
-    }else{
-        j = mid - 1;
+        if(target === nums[mid]){
+            return mid;
+        }else if(target  < nums[mid]){
+            j = mid - 1;
+        }else{
+            i = mid + 1;
+        }
     }
-    }
-
     return -1;
 };
