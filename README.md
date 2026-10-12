@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
