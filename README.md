@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
@@ -276,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
