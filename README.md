@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0981-time-based-key-value-store) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0912-sort-an-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/2942-find-words-containing-character) |
 ## Counting
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0459-repeated-substring-pattern) |
+## Matrix
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
