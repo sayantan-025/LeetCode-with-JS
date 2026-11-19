@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0509-fibonacci-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0704-binary-search) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sayantan-025/LeetCode-with-JS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
